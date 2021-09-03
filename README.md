@@ -1,2 +1,2 @@
-# TallerAF
-Taller de Azure Functions
+# AFcontroltiempos
+Taller de Azure Functions para el control de tiempos
