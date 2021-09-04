@@ -2,7 +2,7 @@
 
 namespace AFcontroltiempos.common.Models
 {
-    internal class ConsolidateTime
+    public class ConsolidateTime
     {
         public int EmployeeId { get; set; }
         public DateTime WorkDate { get; set; }

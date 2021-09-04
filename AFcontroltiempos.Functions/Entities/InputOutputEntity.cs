@@ -1,8 +1,9 @@
-﻿using System;
+﻿using Microsoft.WindowsAzure.Storage.Table;
+using System;
 
-namespace AFcontroltiempos.common.Models
+namespace AFcontroltiempos.Functions.Entities
 {
-    public class InputOutput
+    public class InputOutputEntity : TableEntity
     {
         public int EmployeeId { get; set; }
         public DateTime DateInputOrOutput { get; set; }
