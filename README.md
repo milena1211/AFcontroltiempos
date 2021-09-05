@@ -1,2 +1,2 @@
-# AFcontroltiempos
-Taller de Azure Functions para el control de tiempos
+# AFcontroltimes
+Azure Functions workshop for time control 
